@@ -1,6 +1,6 @@
 # Assignment-2-MapReduce
 
-_You must use MapReduce to complete this assignment._
+_You must use MapReduce to complete this assignment._ <br>
 Acquire Data:
 For this assignment, download the Harry Potter Books data from the following link (PDF is also attached):
 https://ztcprep.com/library/story/Harry_Potter/Harry_Potter_(www.ztcprep.com).pdf
